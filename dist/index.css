@@ -1,0 +1,21 @@
+#websiteHeading {
+  border: solid;
+}
+
+#checkboxDiv {
+  display: flex;
+}
+
+.ckbxElement {
+  margin: 5px 5px;
+}
+
+.ckbx {
+  width: 18px;
+  height: 18px;
+  border: solid black;
+}
+
+.bkdiv {
+  border: solid red;
+}
